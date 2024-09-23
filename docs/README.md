@@ -1,2 +1,2 @@
 # dulm.github.io
-[test](https://github.com/dulmcn/dulmcn.github.io/blog.html)
+[test](https:/dulmcn.github.io/blog.html)
